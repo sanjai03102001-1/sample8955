@@ -1,2 +1,1 @@
-package main
-jdbcfjadfj
+package sample
